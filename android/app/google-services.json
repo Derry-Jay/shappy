@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "708267266661",
+    "firebase_url": "https://appytek-9a8d4.firebaseio.com",
+    "project_id": "appytek-9a8d4",
+    "storage_bucket": "appytek-9a8d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708267266661:android:da86a7594f915eedb16c8c",
+        "android_client_info": {
+          "package_name": "com.shappy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708267266661-4ms1p01tppr4p03rbis6l1racgdqbgan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAnwIVE9fxLgJcTw8d2847A_Lb5PeqNis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708267266661-4ms1p01tppr4p03rbis6l1racgdqbgan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
